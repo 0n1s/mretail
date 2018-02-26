@@ -154,7 +154,7 @@ public class LoginClass extends AppCompatActivity {
     public void login_verify(String s,String email,String password)
     {
 
-       // new AlertDialog.Builder(LoginClass.this).setMessage(s).show();
+      // new AlertDialog.Builder(LoginClass.this).setMessage(s).show();
 
         try {
             JSONObject json = new JSONObject(s);
@@ -188,7 +188,7 @@ public class LoginClass extends AppCompatActivity {
                 finish();
 
             }
-            else if (succes.equals(0))
+            else
             {
                 Toast.makeText(getBaseContext(), "Login failed", Toast.LENGTH_SHORT).show();
             }
