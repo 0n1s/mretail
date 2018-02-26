@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MRetail</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_testing">Testing</string>
+    <string name="title_activity_grocery">Grocery</string>
+    <string name="title_activity_utensils">Utensils</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="title_activity_wallet2">Wallet2</string>
+    <string name="title_activity_moving_goods">MovingGoods</string>
+</resources>
